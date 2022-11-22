@@ -13,7 +13,7 @@ function Footer() {
     <div className="footer">
       <div className="container">
         <div className="top">
-          <h3>BEACHES.</h3>
+          <h3>Resorts Travel .</h3>
           <div className="social">
             <FaFacebook className="icon" />
             <FaInstagram className="icon" />
